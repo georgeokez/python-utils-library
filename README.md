@@ -1,3 +1,3 @@
 # Python Utils Library
 
-This is a Util Library of commonly solved python problems
+This is a Util library of commonly solved python problems
